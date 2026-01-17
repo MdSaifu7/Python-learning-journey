@@ -2,9 +2,8 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 import json
-import time
 
-# add before next request
+
 load_dotenv()
 
 
